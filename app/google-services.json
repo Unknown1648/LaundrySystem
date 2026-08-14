@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512171157918",
+    "project_id": "laundrysys-f466a",
+    "storage_bucket": "laundrysys-f466a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512171157918:android:3c1786236903362ea04e8f",
+        "android_client_info": {
+          "package_name": "com.sparrow.laundrysys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwskUuOrhcqjBJ6UwEgv4zBhkIqUyM4r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

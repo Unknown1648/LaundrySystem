@@ -1,0 +1,3 @@
+-keep class com.sparrow.laundrysys.classes.** { *; }
+-keepnames class com.sparrow.laundrysys.classes.**
+-keepclassmembers class com.sparrow.laundrysys.classes.** { *; }
